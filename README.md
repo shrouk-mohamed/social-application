@@ -1,4 +1,4 @@
-# Hi👋🏻 I'm Shrouk👩🏻‍💻
+# Hi👋🏻 I'm Shrouk🕊
 
 ## Social Application
 This Flutter-based application provides a versatile platform that encompasses various social features, enabling users to connect, share, and engage with friends. It offers a range of functionalities enhancing the social experience:
